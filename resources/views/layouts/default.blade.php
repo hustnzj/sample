@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>@yield('title', 'Sample') - Laravel elementary course</title>
-    <link rel="stylesheet" href="/css/bootstrap.css">
+    {{--<link rel="stylesheet" href="/css/bootstrap.css">--}}
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
